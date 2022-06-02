@@ -150,14 +150,14 @@ endmodule
 
 
 ### TIMING DIGRAMS  
-![outpout](j5.png)
+![output](j5.png)
 
 
 
 
 ### TRUTH TABLE 
 
-![outpout](j6.png)
+![output](j6.png)
 
 ### RESULTS 
 Thus the program to desing encoder and decoder using quartus is done.
