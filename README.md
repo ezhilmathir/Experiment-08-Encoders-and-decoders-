@@ -116,7 +116,6 @@ endmodule
 ```
 DECODER:-
 
-
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
 Developed by: EZHIL MATHI.R
 RegisterNumber:  212221230026
@@ -141,8 +140,6 @@ endmodule
 
 
 ### RTL LOGIC  
-
-
 
 ![outpout](j4.png)
 
