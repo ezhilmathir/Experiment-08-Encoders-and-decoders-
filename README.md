@@ -141,7 +141,7 @@ endmodule
 
 ### RTL LOGIC  
 
-![outpout](j4.png)
+![output](j4.png)
 
 
 
