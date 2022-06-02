@@ -141,13 +141,13 @@ endmodule
 
 ### RTL LOGIC  
 
-![output](j4.png)
+![output](J4.png)
 
 
 
 
 ### TIMING DIGRAMS  
-![output](j5.png)
+![output](J5.png)
 
 
 
